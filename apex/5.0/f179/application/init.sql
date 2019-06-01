@@ -1,0 +1,1 @@
+set define off verify off feedback offwhenever sqlerror exit sql.sqlcode rollbackbeginwwv_flow_api.import_begin ( p_version_yyyy_mm_dd=>'2016.08.24',p_release=>'5.1.4.00.08',p_default_workspace_id=>1000,p_default_application_id=>179,p_default_owner=>'DNG_SOK');end;/ prompt APPLICATION 179 - DNG_SOK

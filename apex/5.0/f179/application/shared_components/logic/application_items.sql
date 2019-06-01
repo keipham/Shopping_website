@@ -1,0 +1,1 @@
+prompt --application/shared_components/logic/application_itemsbeginwwv_flow_api.create_flow_item( p_id=>wwv_flow_api.id(346199744410585731),p_name=>'AI_CART_COUNT',p_protection_level=>'I');wwv_flow_api.create_flow_item( p_id=>wwv_flow_api.id(344876194938364167),p_name=>'AI_USER_DISPLAY',p_protection_level=>'I');end;/

@@ -1,0 +1,5 @@
+CREATE OR REPLACE FORCE VIEW "SOK_ROLE_VW"
+AS
+  SELECT role_code, role_name
+  FROM SOK_ROLE_LU;
+  /
